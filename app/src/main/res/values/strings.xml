@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RodrigoOliveiraViniciusBarbosaIntSI3ANBUA</string>
+    <string name="text_nome">Qual o seu nome?</string>
+    <string name="text_interesse">Qual o seu assunto de Interesse?</string>
+    <string name="editText_nome">Nome</string>
+    <string name="autoCompleteTextView_interesse">Interesse</string>
+
+    <!--ComboBox tipo Spinner-->
+    <string-array name="interesse_array">
+        <item>Técnico</item>
+        <item>Literatura</item>
+    </string-array>
+
+    <!--Button-->
+    <string name="button_send">OK</string>
+
+    <!--Tela display_message-->
+    <string name="text_listaLivros">Eis aqui uma lista de Livros:</string>
+
+    <string name="text_optionLivro1">Concrete Mathematics</string>
+    <string name="text_optionLivro2">The C++ Programming Language</string>
+</resources>
